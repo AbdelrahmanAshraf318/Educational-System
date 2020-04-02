@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1566588302 source:d:\ramos\codes\project()\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<bits/stdc++.h>
+
+1566682560 source:d:\ramos\my projects\educitional managment\project()\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<bits/stdc++.h>
+
